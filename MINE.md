@@ -44,7 +44,7 @@
 <body>
     <div class="container">
         <h1>Khalisha Salsabila Restika Santoso</h1>
-        <img src="SHA11.jpg" alt="Foto Khalisha">
+        <img src="![SHA11](https://github.com/user-attachments/assets/2c7bae10-5c06-48ed-9249-de6a8aa66ac6)" alt="Foto Khalisha">
         <p>"Bulu matamu itu seperti pelindung bagi matamu yang bersinar, tapi sayangnya, mereka gagal melindungi aku dari jatuh terlalu dalam. Wajahmu bukan sekadar cantik, tapi seperti lukisan yang Tuhan buat dengan penuh cinta. Dan hatimu? Bahkan malaikat pun mungkin iri dengan kebaikanmu.".</p>
         <button onclick="showLoveMessage()">For You</button>
         <p id="message"></p>
